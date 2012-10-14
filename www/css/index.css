@@ -65,8 +65,8 @@ h1 {
 }
 #intro-links a {
     display: block;
-    margin: 20px;
-    padding: 10px;
+    margin: 2em;
+    padding: 1em;
     background: #3ba3b8;
     border-radius: 10px;
 
