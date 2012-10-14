@@ -44,7 +44,7 @@ body {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     font-weight:normal;
     text-transform:uppercase;
     background:#363637;
@@ -68,7 +68,9 @@ h1 {
     margin: 20px;
     padding: 10px;
     background: #3ba3b8;
-    border-radius: 5px;
+    border-radius: 10px;
+
+    font-size:1.5em;
     color: white;
     text-decoration: none;
 }
